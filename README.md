@@ -44,7 +44,7 @@ This project uses embedded SPIR-V shaders (`viewer_vert_spv.h` and `viewer_frag_
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/ProjectBoring/Minimalist-C-Vulkan-GLTF-Viewer.git](https://github.com/ProjectBoring/Minimalist-C-Vulkan-GLTF-Viewer.git)
+    git clone https://github.com/ProjectBoring/Minimalist-C-Vulkan-GLTF-Viewer.git
     cd Minimalist-C-Vulkan-GLTF-Viewer
     ```
 2.  **Acquire Dependencies:**
