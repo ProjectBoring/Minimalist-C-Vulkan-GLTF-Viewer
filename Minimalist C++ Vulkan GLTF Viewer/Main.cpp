@@ -512,7 +512,6 @@ void recreateSwapchain() {
 //                     VULKAN SETUP IMPLEMENTATION
 // ============================================================================
 
-// ... (createInstance, createSurface, pickPhysicalDevice, createLogicalDevice unchanged) ...
 void createInstance() {
     VkApplicationInfo appInfo{ VK_STRUCTURE_TYPE_APPLICATION_INFO };
     appInfo.pApplicationName = "glTF Viewer";
